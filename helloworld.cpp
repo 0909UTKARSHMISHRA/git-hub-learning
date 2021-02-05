@@ -4,7 +4,7 @@ int main()
 {
     cout<<"Hello World";
 
-    cout<<"hiiefwohiuuuuhtbtiubiubt"<<endl;
+    cout<<"hii"<<endl;
 
     return 0 ;
 }
