@@ -6,5 +6,7 @@ int main()
 
     cout<<"hiiefwohiuuuuhtbtiubiubt"<<endl;
 
+    cout<<"1"<<endl;
+
     return 0 ;
 }
